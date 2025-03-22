@@ -1,0 +1,23 @@
+
+---
+
+### **3. 25_LogSignalAnalyzer**  
+**Description:**  
+A log inspection tool to surface frequent warnings and errors.
+
+#### **README.md**
+```markdown
+# LogSignalAnalyzer - Log File Inspector
+
+LogSignalAnalyzer parses logs and highlights common errors and suspicious activity using keyword frequency.
+
+## Features
+- Word-level frequency analysis  
+- Supports auth/system/app logs  
+- Minimal configuration  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_LogSignalAnalyzer.git
+cd 25_LogSignalAnalyzer
+python analyze.py logfile.log
