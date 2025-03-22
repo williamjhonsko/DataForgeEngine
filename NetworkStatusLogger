@@ -1,0 +1,23 @@
+
+---
+
+### **2. 25_NetworkStatusLogger**  
+**Description:**  
+A CLI utility for checking HTTP endpoints and logging uptime + latency.
+
+#### **README.md**
+```markdown
+# NetworkStatusLogger - HTTP Response Monitor
+
+NetworkStatusLogger checks multiple URLs and logs their availability, response time, and error rates.
+
+## Features
+- Configurable timeout  
+- CSV logging  
+- Color-coded output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_NetworkStatusLogger.git
+cd 25_NetworkStatusLogger
+python monitor.py
