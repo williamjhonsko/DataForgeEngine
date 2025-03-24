@@ -1,0 +1,23 @@
+
+---
+
+### **4. 25_RealTimeChartMaker**  
+**Description:**  
+A Python tool to visualize numeric input as a real-time chart.
+
+#### **README.md**
+```markdown
+# RealTimeChartMaker - Live Graph Plotting Tool
+
+RealTimeChartMaker plots dynamic data on a Matplotlib-powered live chart. Great for demos, simulations, or sensors.
+
+## Features
+- Live updates  
+- Custom stream frequency  
+- Clean UI  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_RealTimeChartMaker.git
+cd 25_RealTimeChartMaker
+python visualize.py
